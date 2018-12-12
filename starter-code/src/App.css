@@ -1,6 +1,10 @@
 .App {
   text-align: center;
 }
+.rojo {
+  color: red;
+}
+
 
 .App-logo {
   animation: App-logo-spin infinite 20s linear;
